@@ -1,0 +1,9 @@
+export { default as GlobeIcon } from "./GlobeIcon";
+export { default as CloseIcon } from "./CloseIcon";
+export { default as QuestionMarkIcon } from "./QuestionMarkIcon";
+export { default as SettingIcon } from "./SettingIcon";
+export { default as VideoIcon } from "./VideoIcon";
+export { default as BlogIcon } from "./BlogIcon";
+export { default as InformationIcon } from "./InformationIcon";
+export { default as BookIcon } from "./BookIcon";
+export { default as MapPinIcon } from "./MapPinIcon";

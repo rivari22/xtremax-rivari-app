@@ -15,8 +15,8 @@ const Accordion = ({ id, label, items }: AccordionProps) => {
         <h2 className="accordion-header mb-0" id={`heading${id}`}>
           <button
             className={classNames(
-              styles["accordion-button-custom"],
-              styles["accordion-button-base"]
+              styles["accordion-button-base"],
+              styles["accordion-button-custom"]
             )}
             type="button"
             data-bs-toggle="collapse"

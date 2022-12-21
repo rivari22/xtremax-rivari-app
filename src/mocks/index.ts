@@ -39,6 +39,7 @@ export const mockData = [
       image: "https://www.capitaland.com/content/dam/capitaland-media-library/retail/Singapore/Singapore/Clarke%20Quay/Clarke%20Quay%20CQ_EDK3156-Edit.jpg.transform/cap-midres/image.jpg",
       urlWeb: "https://www.capitaland.com/sg/en/lease/mall-listing/clarke-quay.html",
       description: "Clarke Quay is a unique conservation landmark located along the Singapore River. Comprising of five blocks of restored 19th century shophouses and warehouses under a multi-colored illuminated canopy, Clarke Quay plays host to a kaleidoscope of over 60 restaurants, wine bars and entertainment spots. Day and night, you can savour the many delights of Chinese, European, Asian and local cuisine. When the sun goes down, have drinks at numerous bars with live bands or party till dawn at the local icon Zouk Club and many other trendy nightspots.",
+      location: "1.290555,103.846188 Clarke Quay"
     },
   },
   {
