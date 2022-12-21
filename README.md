@@ -1,4 +1,4 @@
-## README ##
+## ABOUT ##
 Slicing UI Xtremax, integrate with google maps
 
 ## HOW TO RUN ##
@@ -9,5 +9,6 @@ Slicing UI Xtremax, integrate with google maps
 4. npm run dev
 
 ## preview project ## 
-![xtremax1](https://user-images.githubusercontent.com/54411969/208930310-c209012f-8f51-4908-a547-e7df5b7205e4.PNG)
-![xtremax2](https://user-images.githubusercontent.com/54411969/208930317-35cf9551-fa7a-4834-aad7-7c5994e90bd0.PNG)
+
+![xtremax1](https://user-images.githubusercontent.com/54411969/208932318-30c7fbf4-7b07-48e3-aaa1-3222927f44df.PNG)
+![xtremax2](https://user-images.githubusercontent.com/54411969/208932330-0a713c9b-4c6f-4d8d-a057-16b8ba717a29.PNG)
