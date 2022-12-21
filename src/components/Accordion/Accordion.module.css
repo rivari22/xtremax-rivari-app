@@ -1,0 +1,123 @@
+.accordion-button-base {
+  @apply relative flex items-center w-full py-4 px-5 text-base text-white text-left rounded-none transition focus:outline-none bg-gray-900;
+}
+
+.accordion-button-custom {
+  overflow-anchor: none;
+}
+.accordion-button-custom:not(.collapsed) {
+  color: white;
+  background-color: inherit;
+}
+.accordion-button-custom:not(.collapsed)::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='white'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+  -webkit-transform: rotate(-180deg);
+  -ms-transform: rotate(-180deg);
+  transform: rotate(-180deg);
+}
+.accordion-button-custom::after {
+  -webkit-flex-shrink: 0;
+  -ms-flex-shrink: 0;
+  flex-shrink: 0;
+  width: 1.25rem /* 20px */;
+  height: 1.25rem /* 20px */;
+  margin-left: auto;
+  content: "";
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23212529'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-size: 1.25rem /* 20px */;
+  -webkit-transition: transform 0.2s ease-in-out;
+  transition: transform 0.2s ease-in-out;
+}
+.accordion-button-custom:hover {
+  z-index: 2;
+}
+.accordion-button-custom:focus {
+  z-index: 3;
+}
+.accordion-item:first-of-type .accordion-button-custom {
+  border-top-left-radius: calc(0.5rem - 1px);
+  border-top-right-radius: calc(0.5rem - 1px);
+}
+.accordion-item:last-of-type .accordion-button-custom.collapsed {
+  border-bottom-right-radius: calc(0.5rem - 1px);
+  border-bottom-left-radius: calc(0.5rem - 1px);
+}
+@media (prefers-reduced-motion: reduce) {
+  .form-control::file-selector-button {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .form-control::-webkit-file-upload-button {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .form-switch .form-check-input {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .form-range::-webkit-slider-thumb {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .form-range::-moz-range-thumb {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .form-floating > label {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .fade {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .collapsing {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .collapsing.collapse-horizontal {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .accordion-button-custom::after {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .modal.fade .modal-dialog {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .carousel-item {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .carousel-fade .active.carousel-item-start {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .carousel-fade .active.carousel-item-end {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .carousel-control-prev {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .carousel-control-next {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .carousel-indicators [data-bs-target] {
+    -webkit-transition: none;
+    transition: none;
+  }
+  .spinner-border {
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s;
+  }
+  .spinner-grow {
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s;
+  }
+}
