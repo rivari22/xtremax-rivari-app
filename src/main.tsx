@@ -6,7 +6,7 @@ import "tw-elements";
 
 import { PlaceProvider } from "./Context/PlaceProvider/PlaceProvider";
 
-// TODO: EXPLAIN COMMENTED STRICT MODE
+// NOTES: Issue on react strict mode on google map react 3rd package library, for detail: https://stackoverflow.com/questions/72115135/google-map-react-not-loading-uncaught-typeerror-cannot-read-properties-of-unde
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <PlaceProvider>
     <App />

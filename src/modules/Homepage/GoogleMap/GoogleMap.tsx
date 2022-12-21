@@ -1,9 +1,9 @@
 import React, { useContext } from "react";
 import GoogleMapReact from "google-map-react";
-import classNames from 'classnames'
+import classNames from "classnames";
 
-import styles from './GoogleMap.module.css'
-import markerImg from "../../../assets/marker.png";
+import styles from "./GoogleMap.module.css";
+import markerImg from "../../../assets/markerCompressed.png";
 import {
   PlaceContext,
   PlaceType,
@@ -25,16 +25,20 @@ const Marker = ({
     style={{ position: "absolute", transform: "translate(-50%, -90%)" }}
     onClick={onClick}
   >
-    <img
-      src={markerImg}
-      alt="marker"
-      width={isSelected ? 100 : 60}
-      height={isSelected ? 100 : 60}
-    />
-    <div className={classNames({
-      [styles['marker-unselect']]: !isSelected,
-      [styles['marker-select']]: isSelected
-    })}>
+    <picture>
+      <img
+        src={markerImg}
+        alt="marker"
+        width={isSelected ? 100 : 60}
+        height={isSelected ? 100 : 60}
+      />
+    </picture>
+    <div
+      className={classNames({
+        [styles["marker-unselect"]]: !isSelected,
+        [styles["marker-select"]]: isSelected,
+      })}
+    >
       <h1
         style={{
           fontSize: isSelected ? "20px" : "12px",
