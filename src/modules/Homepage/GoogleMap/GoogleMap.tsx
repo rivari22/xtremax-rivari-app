@@ -1,6 +1,8 @@
 import React, { useContext } from "react";
 import GoogleMapReact from "google-map-react";
+import classNames from 'classnames'
 
+import styles from './GoogleMap.module.css'
 import markerImg from "../../../assets/marker.png";
 import {
   PlaceContext,
@@ -20,7 +22,7 @@ const Marker = ({
   onClick: () => void;
 }) => (
   <div
-    style={{ position: "absolute", transform: "translate(-50%, -60%)" }}
+    style={{ position: "absolute", transform: "translate(-50%, -90%)" }}
     onClick={onClick}
   >
     <img
@@ -29,13 +31,19 @@ const Marker = ({
       width={isSelected ? 100 : 60}
       height={isSelected ? 100 : 60}
     />
-    <h1
-      style={{
-        fontSize: isSelected ? "20px" : "12px",
-      }}
-    >
-      {text}
-    </h1>
+    <div className={classNames({
+      [styles['marker-unselect']]: !isSelected,
+      [styles['marker-select']]: isSelected
+    })}>
+      <h1
+        style={{
+          fontSize: isSelected ? "20px" : "12px",
+        }}
+        className="truncate"
+      >
+        {text}
+      </h1>
+    </div>
   </div>
 );
 
@@ -73,9 +81,6 @@ const GoogleMap = () => {
       zoom={state.selectedPlace ? 17 : defaultProps.zoom}
       onChildClick={(hoverKey, childProps) => {
         childProps.onClick();
-      }}
-      options={{
-        panControl: true,
       }}
     >
       {state?.places?.map((data, index) => (

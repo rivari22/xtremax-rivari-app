@@ -1,0 +1,119 @@
+[
+    {
+      "lat": 1.28692,
+      "lng": 103.85457,
+      "label": "Merlion",
+      "isSelected": false,
+      "key": 0,
+      "detail": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Singapore_Skyline_2019-10.jpg",
+        "urlWeb": "https://en.wikipedia.org/wiki/Merlion",
+        "description": "The Merlion (/ˈmɜːrˌlaɪən/) is the official mascot of Singapore. It is depicted as a mythical creature with the head of a lion and the body of a fish. Being of prominent symbolic nature to Singapore and Singaporeans in general, it is widely used to represent both the city state and its people in sports teams, advertising, branding, tourism and as a national personification.[1]\n  \n        The Merlion was first used in Singapore as the logo for the tourism board. Its name combines \"mer\", meaning the sea, and \"lion\". The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means \"sea town\" in Javanese. The lion head represents Singapore's original name—Singapura—meaning \"lion city\" or \"kota singa\".",
+        "location": "1.28692,103.85457 Merlion"
+      }
+    },
+    {
+      "lat": 1.287466,
+      "lng": 103.851424,
+      "label": "Asian Civilisations Museum",
+      "isSelected": false,
+      "key": 1,
+      "detail": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Asian_civilisations_museums_singapore.jpg/1280px-Asian_civilisations_museums_singapore.jpg",
+        "urlWeb": "https://www.nhb.gov.sg/acm/",
+        "description": "ACM is Singapore’s national museum of Asian antiquities and decorative art. As the only museum in Asia with a pan-Asian scope, ACM is devoted to exploring the rich artistic heritage of Asia through our outstanding collection of masterpieces, and through ground-breaking special exhibitions. ACM focuses on the many historical connections between cultures and civilisations in Asia, and between Asia and the world.\n  \n        Singapore’s history as a port city that brought people together from all over the world is used as a means of examining the history of Asia. Objects on display tell stories of the trade and the exchange of ideas that were the result of international commerce, as well as the flow of religions and faith through Asia.",
+        "location": "1.287466,103.851424 Asian Civilisations Museum"
+      }
+    },
+    {
+      "lat": 1.290555,
+      "lng": 103.846188,
+      "label": "Clarke Quay",
+      "isSelected": false,
+      "key": 2,
+      "detail": {
+        "image": "https://www.capitaland.com/content/dam/capitaland-media-library/retail/Singapore/Singapore/Clarke%20Quay/Clarke%20Quay%20CQ_EDK3156-Edit.jpg.transform/cap-midres/image.jpg",
+        "urlWeb": "https://www.capitaland.com/sg/en/lease/mall-listing/clarke-quay.html",
+        "description": "Clarke Quay is a unique conservation landmark located along the Singapore River. Comprising of five blocks of restored 19th century shophouses and warehouses under a multi-colored illuminated canopy, Clarke Quay plays host to a kaleidoscope of over 60 restaurants, wine bars and entertainment spots. Day and night, you can savour the many delights of Chinese, European, Asian and local cuisine. When the sun goes down, have drinks at numerous bars with live bands or party till dawn at the local icon Zouk Club and many other trendy nightspots.",
+        "location": "1.290555,103.846188 Clarke Quay"
+      }
+    },
+    {
+      "lat": 1.295526,
+      "lng": 103.845331,
+      "label": "Fort Canning Park",
+      "isSelected": false,
+      "key": 3,
+      "detail": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Fort_Canning_Park_sign%2C_Singapore_-_20110506.jpg",
+        "urlWeb": "https://en.wikipedia.org/wiki/Fort_Canning_Hill",
+        "description": "Fort Canning Hill, formerly Government Hill, Singapore Hill and Bukit Larangan (Forbidden Hill in Malay), is a small hill, about 48 metres (157 ft) high, in the southeast portion of the island city-state of Singapore, within the Central Area that forms Singapore's central business district. It is named after Viscount Charles John Canning, the first Viceroy of India. Although small in physical size, it has a long history intertwined with that of the city-state due to its location as the highest elevation within walking distance to the city's civic district, within the Downtown Core. It is also a popular location for exhibitions, concerts and outdoor recreation.\n  \n        The Malays called the hill Bukit Larangan or Forbidden Hill since olden times. This is due to the belief that it is the place where the kings of ancient Singapore were laid to rest, and it was believed to be haunted.[1] It is also believed that a palace once stood on the hill. A settlement on the hill in the 14th century was referred to as Ban Zu (from the Malay pancur) by the Yuan dynasty traveller Wang Dayuan. Later, Sir Stamford Raffles built his residence there, which was also used by other Residents and Governors. It became known as Government Hill until it was renamed Fort Canning in 1861, when a military fort was built on the site.[1] Today it is the location of both the Fort Canning Reservoir and Fort Canning Park.",
+        "location": "1.295526,103.845331 Fort Canning Park"
+      }
+    },
+    {
+      "lat": 1.302279,
+      "lng": 103.837399,
+      "label": "Orchard Road",
+      "isSelected": false,
+      "key": 4,
+      "detail": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Presenting..._the_real_ION_%288200217734%29.jpg/1280px-Presenting..._the_real_ION_%288200217734%29.jpg",
+        "urlWeb": "https://en.wikipedia.org/wiki/Orchard_Road",
+        "description": "Orchard Road, often known colloquially as simply Orchard, is a major 2.5 km (1.6 mi)–long road in the Central Area of Singapore.[4] Known as a famous tourist attraction, it is an upscale shopping area of Singapore, with numerous internationally renowned department stores, restaurants and coffeehouses located in its vicinity.[4]\n  \n        The Orchard Planning Area is a planning area as specified by the Urban Redevelopment Authority. It is part of the Central Area located within the Central Region. Orchard is bordered by Newton in the east and north, Tanglin in the west, River Valley in the south and Museum to the southeast.",
+        "location": "1.302279,103.837399 Orchard Road"
+      }
+    },
+    {
+      "lat": 1.283099,
+      "lng": 103.860295,
+      "label": "Marina Bay Sands",
+      "isSelected": false,
+      "key": 5,
+      "detail": {
+        "image": "https://www.marinabaysands.com/content/dam/singapore/marinabaysands/master/main/home/mbs-exterior-view-daylight-1920x595.jpg",
+        "urlWeb": "https://id.marinabaysands.com/",
+        "description": "Marina Bay Sands is the leading business, leisure and entertainment destination in Asia. The vision was to build an integrated development that is timeless, and a landmark that possesses a distinct identity which distinguishes Singapore from other cities.\n  \n        Located along the Marina Bay waterfront, the integrated resort features more than 2,200 hotel rooms and suites across its three cascading hotel towers, and an extraordinary rooftop Sands SkyPark with an Infinity Pool. It also boasts the best shopping mall in Asia, the largest nightclub in Singapore, world-class celebrity chef restaurants, a theatre and a Las Vegas-style casino. Business visitors will also enjoy the extensive Meetings, Incentives, Conventions and Exhibitions (MICE) facilities featuring state-of-the-art technology, highly flexible exhibition halls, and a convention centre that can host over 45,000 delegates. Completing the line-up of attractions is ArtScience Museum at Marina Bay Sands, which plays host to permanent and marquee exhibitions.\n        \n        “Marina Bay Sands is a must-see destination in Asia and has contributed to increasing business and leisure tourism to Singapore. \n        \n        The success of Marina Bay Sands has allowed it to serve as an important reference site for emerging jurisdictions considering Integrated Resort development.” \n        \n        Sheldon G. Adelson, Founder, Las Vegas Sands Corp.",
+        "location": "1.283099,103.860295 Marina Bay Sands"
+      }
+    },
+    {
+      "lat": 1.28179,
+      "lng": 103.863954,
+      "label": "Gardens By The Bay",
+      "isSelected": false,
+      "key": 6,
+      "detail": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Marina_Bay_Sands_from_Gardens_By_The_Bay.jpg",
+        "urlWeb": "https://en.wikipedia.org/wiki/Gardens_by_the_Bay",
+        "description": "The Gardens by the Bay is a nature park spanning 101 hectares (250 acres) in the Central Region of Singapore, adjacent to the Marina Reservoir. The park consists of three waterfront gardens: Bay South Garden (in Marina South), Bay East Garden (in Marina East) and Bay Central Garden (in Downtown Core and Kallang).[2] The largest of the gardens is the Bay South Garden at 54 hectares (130 acres) designed by Grant Associates. Its Flower Dome is the largest glass greenhouse in the world.[3]\n  \n        Gardens by the Bay was part of the nation's plans to transform its \"Garden City\" to a \"City in a Garden\", with the aim of raising the quality of life by enhancing greenery and flora in the city. First announced by Prime Minister Lee Hsien Loong at Singapore's National Day Rally in 2005, Gardens by the Bay was intended to be Singapore's premier urban outdoor recreation space and a national icon.",
+        "location": "1.28179,103.863954 Gardens By The Bay"
+      }
+    },
+    {
+      "lat": 1.2845118979830603,
+      "lng": 103.84363250120009,
+      "label": "Chinatown",
+      "isSelected": false,
+      "key": 7,
+      "detail": {
+        "image": "https://chinatown.sg/wp-content/uploads/2020/06/living-quarter.jpg",
+        "urlWeb": "https://chinatown.sg/",
+        "description": "In his 1822 Master Town Plan, Sir Stamford Raffles allocated the whole area west of the Singapore River for a Chinese settlement known as the Chinese Campong, envisaging that Chinese would form the bulk of future town dwellers. Singapore, the new land of opportunity then, had attracted many Chinese immigrants, who expanded the original boundaries of this economically and culturally vibrant, self-contained town. This self-contained kampong (community settlement) became home to many Chinese immigrants, and a transit point for coolies (unskilled labourers) going to Malaya.",
+        "location": "1.2845118979830603,103.84363250120009 Chinatown"
+      }
+    },
+    {
+      "lat": 1.289332,
+      "lng": 103.863152,
+      "label": "Singapore Flyer",
+      "isSelected": false,
+      "key": 8,
+      "detail": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dikaiosp_210819_6963.jpg/1920px-Dikaiosp_210819_6963.jpg",
+        "urlWeb": "https://www.singaporeflyer.com/en",
+        "description": "In May 2007, the Singapore Flyer unveiled its mock capsule amidst much fanfare and anticipation. In February 2008, it held its corporate inaugural flights, building the hype surrounding what was to be Asia’s largest observation wheel.\n  \n        With a soft launch in March 2008, the Singapore Flyer’s doors were opened to the guests amid overwhelming response, before its official opening on 15 April 2008.\n        \n        Singapore Flyer was acquired by Straco Corporation Limited in November 2014 through Straco Leisure Pte Ltd, a joint venture between Bay Attractions Pte Ltd, a wholly-owned subsidiary of Straco Corporation Limited and WTS Leisure Pte Ltd. Singapore Flyer is Straco Corporation’s flagship project in Singapore.",
+        "location": "1.289332,103.863152 Singapore Flyer"
+      }
+    }
+  ]

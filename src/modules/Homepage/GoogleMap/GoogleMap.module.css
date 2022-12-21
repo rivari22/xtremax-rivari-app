@@ -1,0 +1,8 @@
+.marker-unselect {
+  @apply absolute left-[15px] top-[5px] bg-black p-2 rounded-tl-xl rounded-bl-xl text-white;
+}
+
+.marker-select {
+    @apply absolute left-[27px] top-[11px] bg-[#83BF2D] p-3 rounded-tl-xl rounded-bl-xl;
+  }
+  
